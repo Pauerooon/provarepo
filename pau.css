@@ -1,0 +1,10 @@
+p {
+    line-height: 2;
+    color: blue;
+ }
+ #paueron {
+    line-height: 2;
+    color: red;
+    text-align: center;
+    text-decoration-line: overline;
+ }
